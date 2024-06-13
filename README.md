@@ -1,5 +1,7 @@
 # `Lista de afazeres` 
 
+## `Ìndice`
+
 * [Introdução](#introdução)
 * [Descrição](#descrição)
 * [Funcionalidade](#funcionalidade)
@@ -82,3 +84,4 @@ Administrar um conjunto de atividades com capacidades de inclusão, alteração,
 [*Vídeo do projeto*](https://pucpredu-my.sharepoint.com/:v:/g/personal/leonardo_sidon_grupomarista_org_br/EdvhW1dXIchOgj76IU7ONr0B-Uc3xzANnbKjCdsngCOShA?e=KNchln)
 
 ## `Resultado`
+![Resultado](img/resultado.png)
